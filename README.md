@@ -1,4 +1,4 @@
-# Multipage website for coffee sales
+# [Multipage website](https://dchornoivanenko.github.io/coffeemeet/) for coffee sales
 ## What I used for creating the website:
 - HTML
 - CSS
