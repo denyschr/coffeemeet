@@ -1,5 +1,5 @@
 # [Multipage website](https://denyschr.github.io/coffeemeet/) for coffee sales
-## What I used for creating the website:
+## What I used:
 - HTML
 - CSS
 - Javascript
